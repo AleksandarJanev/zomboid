@@ -1,0 +1,12 @@
+graphics/maps/level1.map
+graphics/maps/Tiles_map3.bmp
+300
+700
+
+zombie 800 700
+zombie 1500 200
+zombie 2000 200
+
+zombie 3000 200
+zombie 3500 200
+

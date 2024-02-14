@@ -1,0 +1,6 @@
+zombie 600 700
+zombie 1200 200
+zombie 2000 200
+
+zombie 3000 200
+zombie 3500 200

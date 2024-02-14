@@ -1,0 +1,658 @@
+# depslib dependency file v1.0
+1352210682 source:c:\users\filip\desktop\game_final\game_final\alienscoutentity.cpp
+	"AlienScoutEntity.h"
+
+1347127072 c:\users\filip\desktop\game_final\game_final\alienscoutentity.h
+	<math.h>
+	"Core/Image.h"
+	"Core/SceneNode.h"
+	"EntityDef.h"
+	"EntityFactory.h"
+
+1377707936 c:\users\filip\desktop\game_final\game_final\core\image.h
+	"Graphics.h"
+	<SDL2/SDL_image.h>
+	<stdio.h>
+
+1391276872 c:\users\filip\desktop\game_final\game_final\core\graphics.h
+	<SDL2/SDL.h>
+
+1394228298 c:\sdl2\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\begin_code.h
+
+1394228298 c:\sdl2\include\sdl2\close_code.h
+
+1394228298 c:\sdl2\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394228298 c:\sdl2\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376127554 c:\sdl2\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1346427048 c:\users\filip\desktop\game_final\game_final\core\scenenode.h
+	"Graphics.h"
+	"Scene.h"
+	"Rectangle.h"
+
+1336844468 c:\users\filip\desktop\game_final\game_final\core\scene.h
+	<list>
+	"SceneNode.h"
+	"Rectangle.h"
+
+1345580744 c:\users\filip\desktop\game_final\game_final\core\rectangle.h
+
+1634600010 c:\users\filip\desktop\game_final\game_final\entitydef.h
+
+1634600210 c:\users\filip\desktop\game_final\game_final\entityfactory.h
+	"Core/Image.h"
+	"Core/Rectangle.h"
+	"Core/SceneNode.h"
+	"Core/Sound.h"
+	"EntityDef.h"
+	"ZombieWalker.h"
+	"BulletEntity.h"
+	"ExplosionEntity.h"
+	"PlayerEntity.h"
+
+1328284868 c:\users\filip\desktop\game_final\game_final\core\sound.h
+	"Audio.h"
+
+1391276858 c:\users\filip\desktop\game_final\game_final\core\audio.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<stdio.h>
+
+1376127638 c:\sdl2\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1347460906 c:\users\filip\desktop\game_final\game_final\bossentity.h
+	"Core/Image.h"
+	"Core/SceneNode.h"
+	"EntityDef.h"
+	"EntityFactory.h"
+
+1346948550 c:\users\filip\desktop\game_final\game_final\bulletentity.h
+	"Core/Image.h"
+	"Core/MapNode.h"
+	"EntityDef.h"
+	"EntityFactory.h"
+
+1345658550 c:\users\filip\desktop\game_final\game_final\core\mapnode.h
+	"Map.h"
+	"SceneNode.h"
+
+1378045106 c:\users\filip\desktop\game_final\game_final\core\map.h
+	"Graphics.h"
+	"Image.h"
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<vector>
+
+1352134882 c:\users\filip\desktop\game_final\game_final\checkpointentity.h
+	"Core/Graphics.h"
+	"Core/SceneNode.h"
+	"EntityDef.h"
+	"PlayerEntity.h"
+
+1634687885 c:\users\filip\desktop\game_final\game_final\playerentity.h
+	"Core/Rectangle.h"
+	"Core/MapNode.h"
+	"Core/Sprite.h"
+	"EntityDef.h"
+	"EntityFactory.h"
+
+1346452054 c:\users\filip\desktop\game_final\game_final\core\sprite.h
+	"Image.h"
+	"Rectangle.h"
+
+1346697844 c:\users\filip\desktop\game_final\game_final\explosionentity.h
+	"Core/SceneNode.h"
+	"Core/Sprite.h"
+	"EntityDef.h"
+	"EntityFactory.h"
+
+1352214494 source:c:\users\filip\desktop\game_final\game_final\bossentity.cpp
+	"BossEntity.h"
+
+1634600334 source:c:\users\filip\desktop\game_final\game_final\bulletentity.cpp
+	"BulletEntity.h"
+
+1347384456 source:c:\users\filip\desktop\game_final\game_final\button.cpp
+	"Button.h"
+
+1378045128 c:\users\filip\desktop\game_final\game_final\button.h
+	<stdlib.h>
+	"Core/Image.h"
+	"Core/Input.h"
+	"Core/Rectangle.h"
+
+1377708640 c:\users\filip\desktop\game_final\game_final\core\input.h
+	<SDL2/SDL.h>
+
+1352138340 source:c:\users\filip\desktop\game_final\game_final\checkpointentity.cpp
+	"CheckpointEntity.h"
+
+1341748968 source:c:\users\filip\desktop\game_final\game_final\core\audio.cpp
+	"Audio.h"
+
+1377864358 source:c:\users\filip\desktop\game_final\game_final\core\game.cpp
+	"Game.h"
+
+1391276864 c:\users\filip\desktop\game_final\game_final\core\game.h
+	<SDL2/SDL_ttf.h>
+	"Graphics.h"
+	"Input.h"
+	"Audio.h"
+
+1376127752 c:\sdl2\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1341747438 source:c:\users\filip\desktop\game_final\game_final\core\gamestate.cpp
+	"GameState.h"
+
+1347384736 c:\users\filip\desktop\game_final\game_final\core\gamestate.h
+	"StateManager.h"
+	"Graphics.h"
+
+1341747456 c:\users\filip\desktop\game_final\game_final\core\statemanager.h
+	<stack>
+	"GameState.h"
+	"Graphics.h"
+
+1378034782 source:c:\users\filip\desktop\game_final\game_final\core\graphics.cpp
+	"Graphics.h"
+
+1391273386 source:c:\users\filip\desktop\game_final\game_final\core\image.cpp
+	"Image.h"
+
+1378035074 source:c:\users\filip\desktop\game_final\game_final\core\input.cpp
+	"Input.h"
+
+1378043062 source:c:\users\filip\desktop\game_final\game_final\core\map.cpp
+	"Map.h"
+
+1345659526 source:c:\users\filip\desktop\game_final\game_final\core\mapnode.cpp
+	"MapNode.h"
+
+1341748820 source:c:\users\filip\desktop\game_final\game_final\core\music.cpp
+	"Music.h"
+
+1328284868 c:\users\filip\desktop\game_final\game_final\core\music.h
+	"Audio.h"
+
+1336838360 source:c:\users\filip\desktop\game_final\game_final\core\outlinefont.cpp
+	"OutlineFont.h"
+
+1377708126 c:\users\filip\desktop\game_final\game_final\core\outlinefont.h
+	<SDL2\SDL_ttf.h>
+	"Graphics.h"
+
+1377708364 source:c:\users\filip\desktop\game_final\game_final\core\rasterfont.cpp
+	"RasterFont.h"
+
+1377708394 c:\users\filip\desktop\game_final\game_final\core\rasterfont.h
+	<cstring>
+	"Image.h"
+
+1345580768 source:c:\users\filip\desktop\game_final\game_final\core\rectangle.cpp
+	"Rectangle.h"
+
+1346697146 source:c:\users\filip\desktop\game_final\game_final\core\scene.cpp
+	"Scene.h"
+
+1336844524 source:c:\users\filip\desktop\game_final\game_final\core\scenenode.cpp
+	"SceneNode.h"
+
+1341748780 source:c:\users\filip\desktop\game_final\game_final\core\sound.cpp
+	"Sound.h"
+
+1346695732 source:c:\users\filip\desktop\game_final\game_final\core\sprite.cpp
+	"Sprite.h"
+
+1347379570 source:c:\users\filip\desktop\game_final\game_final\core\statemanager.cpp
+	"StateManager.h"
+
+1634672050 source:c:\users\filip\desktop\game_final\game_final\creditsstate.cpp
+	"CreditsState.h"
+
+1378045170 c:\users\filip\desktop\game_final\game_final\creditsstate.h
+	"Core/GameState.h"
+	"Core/Image.h"
+	"Core/Input.h"
+
+1634689848 source:c:\users\filip\desktop\game_final\game_final\entityfactory.cpp
+	"EntityFactory.h"
+
+1346773926 source:c:\users\filip\desktop\game_final\game_final\explosionentity.cpp
+	"ExplosionEntity.h"
+
+1634687399 source:c:\users\filip\desktop\game_final\game_final\gameendingstate.cpp
+	"GameEndingState.h"
+
+1634687532 c:\users\filip\desktop\game_final\game_final\gameendingstate.h
+	"Core/GameState.h"
+	"Core/Image.h"
+	"Core/Input.h"
+	"Button.h"
+
+1634687583 source:c:\users\filip\desktop\game_final\game_final\gameoverstate.cpp
+	"GameOverState.h"
+
+1634585659 c:\users\filip\desktop\game_final\game_final\gameoverstate.h
+	"Core/GameState.h"
+	"Core/Image.h"
+	"Core/Input.h"
+	"Button.h"
+
+1634600148 source:c:\users\filip\desktop\game_final\game_final\level.cpp
+	"Level.h"
+
+1634597951 c:\users\filip\desktop\game_final\game_final\level.h
+	<fstream>
+	"Core/Map.h"
+	"Core/Scene.h"
+	"EntityFactory.h"
+
+1634588138 source:c:\users\filip\desktop\game_final\game_final\main.cpp
+	"Zomboid.h"
+
+1347382050 c:\users\filip\desktop\game_final\game_final\spacegame.h
+	"Core/Game.h"
+	"Core/StateManager.h"
+	"MainMenuState.h"
+	"RunState.h"
+
+1378045634 c:\users\filip\desktop\game_final\game_final\mainmenustate.h
+	"Core/Game.h"
+	"Core/GameState.h"
+	"Core/Graphics.h"
+	"Core/Image.h"
+	"Core/Input.h"
+	"Core/Music.h"
+	"Button.h"
+	"RunState.h"
+	"CreditsState.h"
+
+1378045700 c:\users\filip\desktop\game_final\game_final\runstate.h
+	"Core/Audio.h"
+	"Core/GameState.h"
+	"Core/Map.h"
+	"Core/Music.h"
+	"Core/Rectangle.h"
+	"Core/Scene.h"
+	"EntityFactory.h"
+	"GameEndingState.h"
+	"GameOverState.h"
+	"Level.h"
+	"Player.h"
+	"PauseState.h"
+
+1634595248 c:\users\filip\desktop\game_final\game_final\player.h
+	"Core/Graphics.h"
+	"Core/Input.h"
+	"PlayerEntity.h"
+	"Level.h"
+
+1634679774 c:\users\filip\desktop\game_final\game_final\pausestate.h
+	"Core/GameState.h"
+	"Core/Image.h"
+	"Core/Input.h"
+	"Button.h"
+
+1634672291 source:c:\users\filip\desktop\game_final\game_final\mainmenustate.cpp
+	"MainMenuState.h"
+
+1634679756 source:c:\users\filip\desktop\game_final\game_final\pausestate.cpp
+	"PauseState.h"
+
+1634595342 source:c:\users\filip\desktop\game_final\game_final\player.cpp
+	"Player.h"
+
+1634689787 source:c:\users\filip\desktop\game_final\game_final\playerentity.cpp
+	"PlayerEntity.h"
+
+1634687596 source:c:\users\filip\desktop\game_final\game_final\runstate.cpp
+	"RunState.h"
+
+1634586699 source:c:\users\filip\desktop\game_final\game_final\spacegame.cpp
+	"SpaceGame.h"
+
+1634588092 source:c:\users\filip\desktop\game_final\game_final\zomboid.cpp
+	"Zomboid.h"
+
+1634670199 c:\users\filip\desktop\game_final\game_final\zomboid.h
+	"Core/Game.h"
+	"Core/StateManager.h"
+	"MainMenuState.h"
+	"RunState.h"
+
+1634689161 c:\users\filip\desktop\game_final\game_final\zombiewalker.h
+	"Core/Rectangle.h"
+	"Core/MapNode.h"
+	"Core/SceneNode.h"
+	"Core/Image.h"
+	"Core/Sprite.h"
+	"EntityDef.h"
+	"EntityFactory.h"
+
+1634689265 source:c:\users\filip\desktop\game_final\game_final\zombiewalker.cpp
+	"ZombieWalker.h"
+

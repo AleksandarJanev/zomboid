@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Game_Final" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Game_Final" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Game_Final" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="BulletEntity.cpp" />
+		<Unit filename="BulletEntity.h" />
+		<Unit filename="Button.cpp" />
+		<Unit filename="Button.h" />
+		<Unit filename="Core/Audio.cpp" />
+		<Unit filename="Core/Audio.h" />
+		<Unit filename="Core/Game.cpp" />
+		<Unit filename="Core/Game.h" />
+		<Unit filename="Core/GameState.cpp" />
+		<Unit filename="Core/GameState.h" />
+		<Unit filename="Core/Graphics.cpp" />
+		<Unit filename="Core/Graphics.h" />
+		<Unit filename="Core/Image.cpp" />
+		<Unit filename="Core/Image.h" />
+		<Unit filename="Core/Input.cpp" />
+		<Unit filename="Core/Input.h" />
+		<Unit filename="Core/Map.cpp" />
+		<Unit filename="Core/Map.h" />
+		<Unit filename="Core/MapNode.cpp" />
+		<Unit filename="Core/MapNode.h" />
+		<Unit filename="Core/Music.cpp" />
+		<Unit filename="Core/Music.h" />
+		<Unit filename="Core/OutlineFont.cpp" />
+		<Unit filename="Core/OutlineFont.h" />
+		<Unit filename="Core/RasterFont.cpp" />
+		<Unit filename="Core/RasterFont.h" />
+		<Unit filename="Core/Rectangle.cpp" />
+		<Unit filename="Core/Rectangle.h" />
+		<Unit filename="Core/Scene.cpp" />
+		<Unit filename="Core/Scene.h" />
+		<Unit filename="Core/SceneNode.cpp" />
+		<Unit filename="Core/SceneNode.h" />
+		<Unit filename="Core/Sound.cpp" />
+		<Unit filename="Core/Sound.h" />
+		<Unit filename="Core/Sprite.cpp" />
+		<Unit filename="Core/Sprite.h" />
+		<Unit filename="Core/StateManager.cpp" />
+		<Unit filename="Core/StateManager.h" />
+		<Unit filename="CreditsState.cpp" />
+		<Unit filename="CreditsState.h" />
+		<Unit filename="EntityDef.h" />
+		<Unit filename="EntityFactory.cpp" />
+		<Unit filename="EntityFactory.h" />
+		<Unit filename="ExplosionEntity.cpp" />
+		<Unit filename="ExplosionEntity.h" />
+		<Unit filename="GameEndingState.cpp" />
+		<Unit filename="GameEndingState.h" />
+		<Unit filename="GameOverState.cpp" />
+		<Unit filename="GameOverState.h" />
+		<Unit filename="Level.cpp" />
+		<Unit filename="Level.h" />
+		<Unit filename="MainMenuState.cpp" />
+		<Unit filename="MainMenuState.h" />
+		<Unit filename="PauseState.cpp" />
+		<Unit filename="PauseState.h" />
+		<Unit filename="Player.cpp" />
+		<Unit filename="Player.h" />
+		<Unit filename="PlayerEntity.cpp" />
+		<Unit filename="PlayerEntity.h" />
+		<Unit filename="RunState.cpp" />
+		<Unit filename="RunState.h" />
+		<Unit filename="ZombieWalker.cpp" />
+		<Unit filename="ZombieWalker.h" />
+		<Unit filename="Zomboid.cpp" />
+		<Unit filename="Zomboid.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
